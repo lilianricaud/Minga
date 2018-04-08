@@ -1,9 +1,6 @@
-# DEBAT MOUVANT COMMUNS
+# Scénario de débat mouvant sur les communs
 
-
-Scénario de débat mouvant sur les communs
 Fait en novembre 2016 par et pour Animacoop
-
 
 Vous venez d'être embauché-e dans une nouvelle structure qui fait de la formation et de l'accompagnement de projets. Dans ce cadre, vous avez pris des photos avec votre appareil personnel.
 
